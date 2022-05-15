@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/welison-menezes-covid-tracker/static/css/main.04489fb8.css",
+    "main.js": "/welison-menezes-covid-tracker/static/js/main.66142430.js",
+    "static/js/787.bd1e3b95.chunk.js": "/welison-menezes-covid-tracker/static/js/787.bd1e3b95.chunk.js",
+    "index.html": "/welison-menezes-covid-tracker/index.html",
+    "main.04489fb8.css.map": "/welison-menezes-covid-tracker/static/css/main.04489fb8.css.map",
+    "main.66142430.js.map": "/welison-menezes-covid-tracker/static/js/main.66142430.js.map",
+    "787.bd1e3b95.chunk.js.map": "/welison-menezes-covid-tracker/static/js/787.bd1e3b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04489fb8.css",
+    "static/js/main.66142430.js"
+  ]
+}
