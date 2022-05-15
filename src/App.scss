@@ -1,0 +1,7 @@
+.App {
+    &.dark-mode {
+        .recharts-tooltip-label {
+            color: black;
+        }
+    }
+}

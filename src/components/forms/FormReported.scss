@@ -1,0 +1,10 @@
+.FormReported {
+    margin-bottom: 2rem;
+    padding: .5rem 1rem;
+
+    .MuiFormControl-root {
+        &:first-child {
+            margin-right: 1rem;
+        }
+    }
+}
